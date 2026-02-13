@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm init:*)",
+      "Bash(curl:*)",
+      "Bash(npm create:*)",
+      "Bash(npx create-react-app:*)",
+      "Bash(npm install:*)",
+      "Bash(npx tailwindcss:*)",
+      "Bash(npx react-scripts build:*)",
+      "Bash(docker build:*)",
+      "Bash(docker stop:*)",
+      "Bash(docker rm:*)"
+    ]
+  }
+}
